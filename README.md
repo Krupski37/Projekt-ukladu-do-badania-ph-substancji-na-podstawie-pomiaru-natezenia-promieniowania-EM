@@ -1,0 +1,2 @@
+# Projekt-ukladu-do-badania-ph-substancji-na-podstawie-pomiaru-natezenia-promieniowania-EM
+Projekt miał na celu zbudowanie rzeczywistego układu do pomiaru ph substancji na podstawie natężenie światła prowadzonego światłowodem. W celu realizacji tego zadania zaprojektowane został scheamt ideowy oraz obwód drukowany w programie Altium Desinger. Następnie elemety zostały wytworzone i należało przeprowadzić proces lutowania powierzchniowego. Ostatecznie przeprowadzone zostały testy w maszynie do badań środowiskowych.
